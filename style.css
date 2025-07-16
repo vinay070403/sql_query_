@@ -1,0 +1,23 @@
+/* style.css */
+body {
+  background: linear-gradient(270deg, #ac788f, #77b677, #8e80c4);
+  background-size: 600% 600%;
+  animation: gradientShift 15s ease infinite;
+  color: #c33068;
+  min-height: 100vh;
+  margin: 0;
+}
+
+@keyframes gradientShift {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+.container {
+  background: rgba(217, 207, 96, 0.85); /* semi-transparent white */
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 5px 15px rgba(142, 72, 234, 0.1);
+}
+
