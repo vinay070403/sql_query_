@@ -2,9 +2,9 @@
 
 # create database in mysql 
 
-CREATE TABLE classes (
-    id INT PRIMARY KEY AUTO_INCREMENT,
-    name VARCHAR(100) NOT NULL
+CREATE TABLE classes (        /n
+    id INT PRIMARY KEY AUTO_INCREMENT, /n
+    name VARCHAR(100) NOT NULL /n
 );
 
 
