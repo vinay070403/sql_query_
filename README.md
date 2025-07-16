@@ -1,4 +1,4 @@
-# sql_query_
+# sql_query_in php
 
 # create database in mysql 
 
