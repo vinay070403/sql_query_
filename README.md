@@ -1,6 +1,6 @@
 # sql_query_in php
 
-# create database in mysql 
+step-1 create database in mysql 
 
 CREATE TABLE classes (        <br>
     id INT PRIMARY KEY AUTO_INCREMENT, <br>
